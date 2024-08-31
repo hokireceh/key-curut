@@ -38,6 +38,7 @@ To use the Hamster Kombat key generator:
 - Беларуская (Belarusian)
 - العربية (Arabic)
 - فارسی (Persian)
+- Indonesian (Jawa)
 - Español (Spanish)
 - Français (French)
 - Deutsch (German)
@@ -54,16 +55,26 @@ To use the Hamster Kombat key generator:
 
 If you want to run this website locally:
 
-1. Clone the repository:
+1. Install python, Git & Clone the repository:
+   python
+   ```
+   pkg install python
+   ```
+
+   git
+   ```
+   pkg install git
+   ```
+   Clone the repository
    ```bash
    git clone https://github.com/hokireceh/key-curut.git
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```bash
-   cd hamster_kombat_bike_keygen_web
-3. Start a local server (you can use any server of your choice, e.g., `http-server` for Node.js):
+   cd key-curut
+4. Start a local server (you can use any server of your choice, e.g., `http-server` for Node.js):
    ```bash
    npx http-server
-4. Open your browser and go to `http://localhost:8080` to view the site.
+5. Open your browser and go to `http://localhost:8080` to view the site.
 
 ## Configuration
 
@@ -82,6 +93,22 @@ If you would like to contribute to this project:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/hokireceh/key-curut/issues) or contact us via [email](mailto:kovirum@mail.ru).
+# Run for 24/7 
+
+You can run the script bot for 24/7 using vps / rdp. You can use `screen` application in vps linux to running the script bot in background process
+Buy cheap RDP Here : [Sign Up](https://console.idcloudhost.com/referral/1n60rk)
+
+# Discussion
+
+If you have an question or something you can ask in here : [@hokibot](https://t.me/hokibot)
+
+# Support My Work
+
+To support me you can buy me a coffee via website in below
+
+- Send IDR directly via QRIS : 
+- [Indonesian] 
+- [Global] https://sociabuzz.com/vania.gemash
+
+# Thank you For All <3
